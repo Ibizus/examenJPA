@@ -1,0 +1,26 @@
+
+
+#body-gatos{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.pyramid-row{
+    display: flex;
+    justify-content: center;
+}
+
+img { /* gatos */
+    display: inline-block;
+}
+
+::placeholder {
+    color: darkslategray;
+    font-style: italic;
+}
+
+#accessForm i{
+    margin-left: 100px;
+    font-size: 60px;
+}
