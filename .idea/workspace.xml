@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b93613f-ef7e-4354-8336-72b4046d360c" name="Changes" comment="inicio">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1b93613f-ef7e-4354-8336-72b4046d360c" name="Changes" comment="arreglado carga de bootstrap para cierre de mensaje de alerta">
       <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/listado.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/listado.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +179,7 @@
       <updated>1701693813569</updated>
       <workItem from="1701693814703" duration="4348000" />
       <workItem from="1702385665540" duration="153000" />
-      <workItem from="1702807689942" duration="563000" />
+      <workItem from="1702807689942" duration="724000" />
     </task>
     <task id="LOCAL-00001" summary="inicio">
       <option name="closed" value="true" />
@@ -191,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701698083568</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="arreglado carga de bootstrap para cierre de mensaje de alerta">
+      <option name="closed" value="true" />
+      <created>1702808292886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702808292886</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +205,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicio" />
+    <MESSAGE value="arreglado carga de bootstrap para cierre de mensaje de alerta" />
+    <option name="LAST_COMMIT_MESSAGE" value="arreglado carga de bootstrap para cierre de mensaje de alerta" />
   </component>
 </project>
